@@ -5,10 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pranjalsingh29" alt="pranjalsingh29" /></a> </p>
 
-
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/264642...">
-https://github.com/Pranjalsingh29/Pranjalsingh29/issues/1#issue-1315101851
-
 - 🌱 I’m currently learning **PYTHON**
 
 - 📫 How to reach me **pranjalsinsinwar99@gmail.com**
