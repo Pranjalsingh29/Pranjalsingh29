@@ -4,9 +4,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranjalsingh29&label=Profile%20views&color=0e75b6&style=flat" alt="pranjalsingh29" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pranjalsingh29" alt="pranjalsingh29" /></a> </p>
+https://dribbble.com/shots/15046127-Daily-Huddles
 
-
-<img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/15753135-Woman-nearby-computer-display-illustration">
+<img align="right" alt="Coding" width="400" src = "https://dribbble.com/shots/15046127-Daily-Huddles">
 
 
 - 🌱 I’m currently learning **PYTHON**
