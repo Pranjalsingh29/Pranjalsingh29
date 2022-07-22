@@ -7,7 +7,7 @@
 
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/264642...">
-
+https://github.com/Pranjalsingh29/Pranjalsingh29/issues/1#issue-1315101851
 
 - 🌱 I’m currently learning **PYTHON**
 
